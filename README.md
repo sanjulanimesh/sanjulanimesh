@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Sanjula+Nimesh+.;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Sanjula+Nimesh;" />
 </h1>
 
 <h3 align="center">I’m passionate about creating software solutions that add real-world value 🌏. Whether I’m working on web applications, digital marketing tools, I strive to bring creativity and functionality together.</h3>
