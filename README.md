@@ -4,6 +4,7 @@
 
 <h3 align="center">I’m passionate about creating software solutions that add real-world value 🌏. Whether I’m working on web applications, digital marketing tools, I strive to bring creativity and functionality together.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjulanimesh&label=Profile%20views&color=0e75b6&style=flat" alt="sanjulanimesh" /> </p>
+
 - 🔭 I’m currently working on [Traffic fines Payment Methods in Sri Lanka](https://github.com/sanjulanimesh/NSKP-WebSite.git)
 
 - 🌱 Building full-stack software engineering skills **FrameWorks, AI Technologies...**
