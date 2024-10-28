@@ -30,6 +30,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjulanimesh" alt="sanjulanimesh" /></a> </p> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sanjulanimesh&show_icons=true&locale=en" alt="sanjulanimesh" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjulanimesh&" alt="sanjulanimesh" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjulanimesh&" alt="sanjulanimesh" /></p>
 </div>
 
