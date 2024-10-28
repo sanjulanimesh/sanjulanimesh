@@ -14,11 +14,7 @@
 - 📄 Know about my experiences [https://nskp-police-app.netlify.app/](https://nskp-police-app.netlify.app/)
 
 - ⚡ Fun fact **When I'm not coding, I enjoy experimenting with photography 📷 and videography 🎥, turning moments into stories.**
-
-
 <h3 align="left">Connect with me</h3>
-
-
 <p align="left">
 <a href="https://linkedin.com/in/sanjula nimesh hettiarachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjula nimesh hettiarachchi" height="30" width="40" /></a>
 <a href="https://fb.com/sanjula nimesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanjula nimesh" height="30" width="40" /></a>
