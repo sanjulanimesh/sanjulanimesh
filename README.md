@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sanjulanh@gmail.com**
 
-- 📄 Know about my experiences [Pixels Camera LK](https://www.noirrageclothing.com/)
+- 📄 Know about my experiences [Noirrage.COM](https://www.noirrageclothing.com/)
 
 - 📄 Know about my experiences [Pixels Camera LK](https://www.pixelscamera.lk/)
 
