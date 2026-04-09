@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **sanjulanh@gmail.com**
 
+- 📄 Know about my experiences [Pixels Camera LK](https://www.noirrageclothing.com/)
+
 - 📄 Know about my experiences [Pixels Camera LK](https://www.pixelscamera.lk/)
 
 - ⚡ Fun fact **When I'm not coding, I enjoy experimenting with photography 📷 and videography 🎥, turning moments into stories.**
